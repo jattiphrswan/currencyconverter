@@ -30,6 +30,7 @@ return (
                   convert()
                 } }
                 >
+                  <h1>Currency</h1>
                   <div className='w-full mb-1'>
                       <InputBox 
                         label="from"
